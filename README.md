@@ -1,4 +1,4 @@
-#What is Git
+# What is Git
 
 A : Free and open source [[version control]] system.
 
