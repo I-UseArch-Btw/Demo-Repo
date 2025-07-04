@@ -21,3 +21,6 @@ A : Free and open source [[version control]] system.
 - pull -> Download changes from remote repo to your local machine, the opposite of push
 
 README.md -> md extention means markdown
+## Comits -> Activity
+
+kjlkjlkj
