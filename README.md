@@ -23,4 +23,6 @@ A : Free and open source [[version control]] system.
 README.md -> md extention means markdown
 ## Comits -> Activity
 
-kjlkjlkj
+## Local Development
+
+1. Open index.html in your browser.   
